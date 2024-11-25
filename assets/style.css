@@ -5,7 +5,7 @@
 }
 
 body {
-    background:<img>https://png.pngtree.com/thumb_back/fw800/background/20240103/pngtree-whimsical-floral-wallpaper-delicate-hand-drawn-flower-pattern-with-botanical-field-image_13885743.png</img>;
+    background:https://png.pngtree.com/thumb_back/fw800/background/20240103/pngtree-whimsical-floral-wallpaper-delicate-hand-drawn-flower-pattern-with-botanical-field-image_13885743.png('img/bg-desktop.webp')
     font-family: Bai Jamjuree;
 }
 
