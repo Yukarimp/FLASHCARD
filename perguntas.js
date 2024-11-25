@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Ciência',
+    'Quantos ossos tem no corpo humano?',
+    '206'
 )
 
 criaCartao(
