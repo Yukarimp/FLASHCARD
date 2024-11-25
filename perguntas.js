@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual a montanha mais alta do mundo?',
+    'MONTE EVERESTE'
 )
 
 criaCartao(
