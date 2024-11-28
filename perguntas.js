@@ -11,31 +11,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Política',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
+    'JOÃO GOULART'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Artes',
+    'As pirâmides de Quéops, Quéfren e Miquerinos, localizadas em Gizé, as estátuas de Akhenaton e o Templo de Luxor são exemplos de arquitetura e arte relacionados a qual civilização antiga?',
+    'EGÍPCIOS'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Em que período da pré-história o fogo foi descoberto?',
+    'PALEOLÍTICO'
 )
