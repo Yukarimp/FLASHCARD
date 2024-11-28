@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Política',
-    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
-    'JOÃO GOULART'
+    'Tecnologia',
+    'Qual é a diferença entre Software e Hardware?',
+    'HARDWARE REFERE-SE AOS COMPONENTES FÍSICOS DE UM SISTEMA, ENQUANTO SOFTWARE É O CONJUNTO DE INSTRUÇÕES OU PROGRAMAS QUE OPERAM O HARDWARE.'
 )
 
 criaCartao(
