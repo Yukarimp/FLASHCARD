@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Ciência',
+    'Ciências',
     'Quantos ossos tem no corpo humano?',
     '206'
 )
